@@ -1,0 +1,3 @@
+include ':kpreferencelib'
+include ':app'
+rootProject.name = "KPreference"
