@@ -7,6 +7,9 @@
 	<img src="app/src/main/ic_launcher-playstore.png" width="128">
 </div>
 
+<div align="center">
+	<img src="https://i.imgur.com/1lGaGtr.png" width="512">
+</div>
 
 ## Prerequisites
 
@@ -35,7 +38,7 @@ dependencies {
 
 ## Usage
 
-KPreference Library uses Simple SharedPreference Database to perform actions, Simply you can use the as normally, 😀😉
+KPreference Library uses Simple SharedPreference Database to perform actions, Simply you can use it as normally, 😀😉
 
 **To Save Data**
 - **Put - Int, String, Boolean, Float, Long, Object, Object List**
